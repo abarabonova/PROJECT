@@ -635,3 +635,29 @@ color: #FFFFFF;
   top: 8100px;
   z-index: 2;
 }
+
+.rectangle4{
+  position: absolute;
+width: 1442px;
+height: 889px;
+left: -2px;
+top: 8977px;
+
+background: #F24141;
+}
+
+.title4{
+  position: absolute;
+  width: 952px;
+  height: 152px;
+  left: 116px;
+  top: 8914px;
+
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 144px;
+  line-height: 173px;
+
+  color: #FFFFFF;
+}
