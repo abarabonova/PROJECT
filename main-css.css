@@ -10,9 +10,6 @@ body{
   position: absolute;
   width: 1440px;
   height: 690px;
-  left: 0px;
-  top: 0px;
-
   background: #272F41;
 }
 
@@ -24,14 +21,12 @@ h1 {
   top: 218px;
 
   font-family: RF Dewi Expanded;
-  font-style :normal;
   font-weight: 900;
   font-size: 144px;
   line-height: 173px;
   text-align: center;
   letter-spacing: 0.04em;
   text-transform: uppercase;
-
   color: #F24141;
 }
 
@@ -658,6 +653,63 @@ background: #F24141;
   font-weight: 900;
   font-size: 144px;
   line-height: 173px;
+  text-transform: uppercase;
 
   color: #FFFFFF;
 }
+
+.subtitle4{
+  position: absolute;
+  width: 1025px;
+  height: 171px;
+  left: 116px;
+  top: 9120px;
+
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 115px;
+  text-decoration-line: underline;
+  text-transform: uppercase;
+
+  color: #272F41;
+}
+
+.subtitle5{
+  position: absolute;
+  width: 1010px;
+  height: 111px;
+  left: 116px;
+  top: 9266px;
+
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 115px;
+  text-decoration-line: underline;
+  text-transform: uppercase;
+
+  color: #272F41;
+}
+
+.subtitle6{
+  position: absolute;
+  width: 1236px;
+  height: 120px;
+  left: 116px;
+  top: 9413px;
+
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 115px;
+  text-decoration-line: underline;
+  text-transform: uppercase;
+
+  color: #272F41;
+}
+
+.subtitle7{}
