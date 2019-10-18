@@ -201,3 +201,71 @@ z-index: 3;
 
 color: #FFFFFF;
 }
+
+.photo1{
+position: absolute;
+width: 666px;
+height: 444px;
+left: 607px;
+top: 1530px;
+}
+
+.pp2{
+position: absolute;
+width: 977px;
+height: 256px;
+left: 278px;
+top: 2547px;
+
+font-family: RF Dewi Expanded;
+font-style: normal;
+font-weight: 800;
+font-size: 64px;
+line-height: 77px;
+text-align: right;
+z-index: 2;
+
+color: #F24141;
+}
+
+.n2{
+position: absolute;
+width: 822px;
+height: 521px;
+left: 662px;
+top: 2163px;
+
+font-family: RF Dewi Expanded;
+font-style: normal;
+font-weight: 900;
+font-size: 800px;
+line-height: 960px;
+z-index: 1;
+
+color: #414A5E;
+}
+
+.p2{
+position: absolute;
+width: 749px;
+height: 385px;
+left: 215px;
+top: 2756px;
+
+font-family: RF Dewi Expanded;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 142%;
+z-index: 3;
+
+color: #FFFFFF;
+}
+
+.photo2{
+  position: absolute;
+  width: 647px;
+  height: 421px;
+  left: 266px;
+  top: 2430px;
+}
