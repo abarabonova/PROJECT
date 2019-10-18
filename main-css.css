@@ -7,259 +7,260 @@ body{
 }
 
 .rectangle1{
+  position: absolute;
+  width: 1440px;
+  height: 690px;
+  left: 0px;
+  top: 0px;
 
-position: absolute;
-width: 1440px;
-height: 690px;
-left: 0px;
-top: 0px;
-
-background: #272F41;
-
+  background: #272F41;
 }
+
 h1 {
   position: absolute;
-width: 1018px;
-height: 171px;
-left: 211px;
-top: 218px;
+  width: 1018px;
+  height: 171px;
+  left: 211px;
+  top: 218px;
 
-font-family: RF Dewi Expanded;
-font-style :normal;
-font-weight: 900;
-font-size: 144px;
-line-height: 173px;
-text-align: center;
-letter-spacing: 0.04em;
-text-transform: uppercase;
+  font-family: RF Dewi Expanded;
+  font-style :normal;
+  font-weight: 900;
+  font-size: 144px;
+  line-height: 173px;
+  text-align: center;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
 
-color: #F24141;
+  color: #F24141;
 }
 
 h2{
   position: absolute;
-width: 793px;
-height: 121px;
-left: 309px;
-top: 334px;
+  width: 793px;
+  height: 121px;
+  left: 309px;
+  top: 334px;
 
-font-family: heading-pro-wide-trial-black;
-font-style: normal;
-font-weight: 900;
-font-size: 18px;
-line-height: 19px;
-text-align: center;
-letter-spacing: 0.125em;
-text-transform: uppercase;
+  font-family: heading-pro-wide-trial-black;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 19px;
+  text-align: center;
+  letter-spacing: 0.125em;
+  text-transform: uppercase;
 
-color: #F5CCA6;
+  color: #F5CCA6;
 }
 
 .paragraph-heading{
   position: absolute;
-width: 680px;
-height: 60px;
-left: 365px;
-top: 395px;
+  width: 680px;
+  height: 60px;
+  left: 365px;
+  top: 395px;
 
-font-family: RF Dewi Expanded;
-font-style: normal;
-font-weight: 600;
-font-size: 20px;
-line-height: 142.5%;
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 142.5%;
 
-text-align: center;
+  text-align: center;
 
-color: #F5CCA6;
+  color: #F5CCA6;
 }
 
 .rectangle2{
-position: absolute;
-width: 1440px;
-height: 699px;
-left: 0px;
-top: 689px;
+  position: absolute;
+  width: 1440px;
+  height: 699px;
+  left: 0px;
+  top: 689px;
 
-background: #F24141;
+  background: #F24141;
 }
 
 .subtitle1{
-position: absolute;
-width: 560px;
-height: 119px;
-left: 705px;
-top: 827px;
+  position: absolute;
+  width: 560px;
+  height: 119px;
+  left: 705px;
+  top: 827px;
 
-font-family: RF Dewi Expanded;
-font-style: normal;
-font-weight: 900;
-font-size: 96px;
-line-height: 115px;
-text-decoration-line: underline;
-text-transform: uppercase;
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 115px;
+  text-decoration-line: underline;
+  text-transform: uppercase;
 
-color: #272F41;
+  color: #272F41;
 }
 
 .subtitle2{
-position: absolute;
-width: 647px;
-height: 120px;
-left: 639px;
-top: 961px;
+  position: absolute;
+  width: 647px;
+  height: 120px;
+  left: 639px;
+  top: 961px;
 
-font-family: RF Dewi Expanded;
-font-style: normal;
-font-weight: 900;
-font-size: 96px;
-line-height: 115px;
-text-decoration-line: underline;
-text-transform: uppercase;
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 115px;
+  text-decoration-line: underline;
+  text-transform: uppercase;
 
-color: #272F41;
+  color: #272F41;
 }
 
 .subtitle3{
-position: absolute;
-width: 437px;
-height: 112px;
-left: 827px;
-top: 1098px;
+  position: absolute;
+  width: 437px;
+  height: 112px;
+  left: 827px;
+  top: 1098px;
 
-font-family: RF Dewi Expanded;
-font-style: normal;
-font-weight: 900;
-font-size: 96px;
-line-height: 115px;
-text-align: right;
-text-decoration-line: underline;
-text-transform: uppercase;
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 115px;
+  text-align: right;
+  text-decoration-line: underline;
+  text-transform: uppercase;
 
-color: #272F41;
+  color: #272F41;
 }
 
 
 .rectangle3{
-position: absolute;
-width: 1440px;
-height: 8028px;
-left: 0px;
-top: 1388px;
+  position: absolute;
+  width: 1440px;
+  height: 8028px;
+  left: 0px;
+  top: 1388px;
 
-background: #272F41;
+  background: #272F41;
 }
 
 
 .pp1{
-position: absolute;
-width: 977px;
-height: 256px;
-left: 210px;
-top: 1621px;
+  position: absolute;
+  width: 977px;
+  height: 256px;
+  left: 210px;
+  top: 1621px;
 
-font-family: RF Dewi Expanded;
-font-style: normal;
-font-weight: 800;
-font-size: 70px;
-line-height: 84px;
-z-index: 2;
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 70px;
+  line-height: 84px;
+  z-index: 3;
 
-color: #F24141;
+  color: #F24141;
 }
 
 
 .n1{
-position: absolute;
-width: 672px;
-height: 853px;
-left: 133px;
-top: 1236px;
+  position: absolute;
+  width: 672px;
+  height: 853px;
+  left: 133px;
+  top: 1236px;
 
-font-family: RF Dewi Expanded;
-font-style: normal;
-font-weight: 900;
-font-size: 800px;
-line-height: 960px;
-z-index: 1;
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 800px;
+  line-height: 960px;
+  z-index: 1;
 
-color: #414A5E;
+  color: #414A5E;
 }
 
 .p1{
-position: absolute;
-width: 725px;
-height: 385px;
-left: 210px;
-top: 1926px;
+  position: absolute;
+  width: 725px;
+  height: 385px;
+  left: 210px;
+  top: 1926px;
 
-font-family: RF Dewi Expanded;
-font-style: normal;
-font-weight: bold;
-font-size: 24px;
-line-height: 34px;
-z-index: 3;
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 34px;
+  z-index: 3;
 
-color: #FFFFFF;
+  color: #FFFFFF;
 }
 
 .photo1{
-position: absolute;
-width: 666px;
-height: 444px;
-left: 607px;
-top: 1530px;
+  position: absolute;
+  width: 666px;
+  height: 444px;
+  left: 607px;
+  top: 1530px;
+  z-index: 2;
 }
 
 .pp2{
-position: absolute;
-width: 977px;
-height: 256px;
-left: 278px;
-top: 2547px;
+  position: absolute;
+  width: 977px;
+  height: 256px;
+  left: 278px;
+  top: 2547px;
 
-font-family: RF Dewi Expanded;
-font-style: normal;
-font-weight: 800;
-font-size: 64px;
-line-height: 77px;
-text-align: right;
-z-index: 2;
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 64px;
+  line-height: 77px;
+  text-align: right;
+  z-index: 3;
 
-color: #F24141;
+  color: #F24141;
 }
 
 .n2{
-position: absolute;
-width: 822px;
-height: 521px;
-left: 662px;
-top: 2163px;
+  position: absolute;
+  width: 822px;
+  height: 521px;
+  left: 662px;
+  top: 2163px;
 
-font-family: RF Dewi Expanded;
-font-style: normal;
-font-weight: 900;
-font-size: 800px;
-line-height: 960px;
-z-index: 1;
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 800px;
+  line-height: 960px;
+  z-index: 1;
 
-color: #414A5E;
+  color: #414A5E;
 }
 
 .p2{
-position: absolute;
-width: 749px;
-height: 385px;
-left: 215px;
-top: 2756px;
+  position: absolute;
+  width: 798px;
+  height: 385px;
+  left: 215px;
+  top: 2756px;
 
-font-family: RF Dewi Expanded;
-font-style: normal;
-font-weight: bold;
-font-size: 24px;
-line-height: 142%;
-z-index: 3;
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 142%;
+  z-index: 3;
 
-color: #FFFFFF;
+
+  color: #FFFFFF;
 }
 
 .photo2{
@@ -268,4 +269,369 @@ color: #FFFFFF;
   height: 421px;
   left: 266px;
   top: 2430px;
+  z-index: 2;
+}
+
+.pp3{
+  position: absolute;
+  width: 546px;
+  height: 256px;
+  left: 208px;
+  top: 3398px;
+
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 64px;
+  line-height: 77px;
+  z-index: 3;
+
+  color: #F24141;
+}
+
+.n3{
+  position: absolute;
+  width: 822px;
+  height: 521px;
+  left: 115px;
+  top: 3069px;
+
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 800px;
+  line-height: 960px;
+  z-index: 1;
+
+  color: #414A5E;
+}
+
+.p3{
+  position: absolute;
+  width: 777px;
+  height: 242px;
+  left: 208px;
+  top: 3696px;
+
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 34px;
+  z-index: 3;
+
+  color: #F8F8F8;
+}
+
+.photo3{
+  position: absolute;
+  width: 664px;
+  height: 424px;
+  left: 609px;
+  top: 3370px;
+  z-index: 2;
+}
+
+.pp4{
+  position: absolute;
+  width: 977px;
+  height: 256px;
+  left: 285px;
+  top: 4292px;
+
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 64px;
+  line-height: 77px;
+  text-align: right;
+  z-index: 3;
+
+  color: #F24141;
+}
+
+.n4{
+  position: absolute;
+  width: 822px;
+  height: 800px;
+  left: 614px;
+  top: 3993px;
+
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 800px;
+  line-height: 960px;
+  z-index: 1;
+
+  color: #414A5E;
+  }
+
+.p4{
+  position: absolute;
+  width: 734px;
+  height: 576px;
+  left: 210px;
+  top: 4558px;
+
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 34px;
+  z-index: 3;
+
+  color: #FFFFFF;
+}
+
+.photo4{
+  position: absolute;
+  width: 668px;
+  height: 432px;
+  left: 274px;
+  top: 4285px;
+  z-index: 2;
+}
+
+.pp5{
+  position: absolute;
+  width: 977px;
+  height: 256px;
+  left: 209px;
+  top: 5293px;
+
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 64px;
+  line-height: 77px;
+  z-index: 3;
+
+  color: #F24141;
+
+}
+
+.n5{
+  position: absolute;
+  width: 822px;
+  height: 521px;
+  left: 146px;
+  top: 4913px;
+
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 800px;
+  line-height: 960px;
+  z-index: 1;
+
+  color: #414A5E;
+}
+
+.p5{
+  position: absolute;
+  width: 778px;
+  height: 576px;
+  left: 211px;
+  top: 5504px;
+
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 34px;
+  z-index: 3;
+
+  color: #FFFFFF;
+}
+
+.photo5{
+  position: absolute;
+  width: 666px;
+  height: 443px;
+  left: 605px;
+  top: 5234px;
+  z-index: 2;
+}
+
+.pp6{
+  position: absolute;
+  width: 664px;
+  height: 256px;
+  left: 605px;
+  top: 6218px;
+
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 64px;
+  line-height: 77px;
+  text-align: right;
+  z-index: 3;
+
+  color: #F24141;
+}
+
+.n6{
+  position: absolute;
+  width: 822px;
+  height: 521px;
+  left: 642px;
+  top: 5828px;
+
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 800px;
+  line-height: 960px;
+  z-index: 1;
+
+  color: #414A5E;
+}
+
+.p6{
+  position: absolute;
+  width: 777px;
+  height: 168px;
+  left: 207px;
+  top: 6425px;
+
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 34px;
+  z-index: 3;
+
+  color: #FFFFFF;
+}
+
+.photo6{
+  position: absolute;
+  width: 680px;
+  height: 453px;
+  left: 271px;
+  top: 6089px;
+  z-index: 2;
+}
+
+.pp7{
+  position: absolute;
+  width: 743px;
+  height: 169px;
+  left: 202px;
+  top: 7139px;
+
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 64px;
+  line-height: 77px;
+  z-index: 3;
+
+  color: #F24141;
+}
+
+.n7{
+  position: absolute;
+  width: 822px;
+  height: 521px;
+  left: 161px;
+  top: 6814px;
+
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 800px;
+  line-height: 960px;
+
+  color: #414A5E;
+  z-index: 1;
+}
+
+.p7{
+  position: absolute;
+  width: 781px;
+  height: 83px;
+  left: 208px;
+  top: 7321px;
+
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 34px;
+  z-index: 3;
+
+  color: #FFFFFF;
+}
+
+.photo7{
+  position: absolute;
+  width: 680px;
+  height: 453px;
+  left: 593px;
+  top: 7124px;
+  z-index: 2;
+}
+
+.pp8{
+  position: absolute;
+  width: 977px;
+  height: 256px;
+  left: 296px;
+  top: 8133px;
+
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 64px;
+  line-height: 77px;
+  text-align: right;
+  z-index: 3;
+
+  color: #F24141;
+}
+
+.n8{
+  position: absolute;
+width: 822px;
+height: 521px;
+left: 648px;
+top: 7830px;
+
+font-family: RF Dewi Expanded;
+font-style: normal;
+font-weight: 900;
+font-size: 800px;
+line-height: 960px;
+z-index: 1;
+
+color: #414A5E;
+}
+
+.p8{
+  position: absolute;
+  width: 781px;
+  height: 79px;
+  left: 208px;
+  top: 8424px;
+
+  font-family: RF Dewi Expanded;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 34px;
+  z-index: 3;
+
+color: #FFFFFF;
+}
+
+.photo8{
+  position: absolute;
+  width: 674px;
+  height: 449px;
+  left: 263px;
+  top: 8100px;
+  z-index: 2;
 }
