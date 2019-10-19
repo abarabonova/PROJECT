@@ -77,7 +77,7 @@ h2{
   background: #F24141;
 }
 
-.subtitle1{
+.advice{
   position: absolute;
   width: 560px;
   height: 119px;
@@ -95,7 +95,7 @@ h2{
   color: #272F41;
 }
 
-.subtitle2{
+.enc{
   position: absolute;
   width: 647px;
   height: 120px;
@@ -113,7 +113,7 @@ h2{
   color: #272F41;
 }
 
-.subtitle3{
+.map{
   position: absolute;
   width: 437px;
   height: 112px;
