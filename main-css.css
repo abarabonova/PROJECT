@@ -112,6 +112,7 @@ top:1388px;
 background:#272F41;
 }
 
+
 .pp1 {
 position:absolute;
 width:977px;
@@ -879,7 +880,7 @@ color:#FFF;
 }
 
 .rectangle9 {
-position:absolute;
+position:relative;
 width:1440px;
 height:8184px;
 left:0;
@@ -887,12 +888,15 @@ top:17220px;
 background:#272F41;
 }
 
+/* background-image: url(img/карта1.png);
+background-size: cover;
+background-position: center; */
+
+
 .map-shd {
-position:absolute;
-width:1086px;
-height:309px;
 left:0;
-top:-81px;
+top:-74px;
+left:100px;
 font-family:RF Dewi Expanded;
 font-style:normal;
 font-weight:900;
@@ -900,4 +904,34 @@ font-size:144px;
 line-height:173px;
 text-transform:uppercase;
 color:#FFF;
+}
+
+.floors{
+  position: absolute;
+  width: 277px;
+  height: 132px;
+  left: 100px;
+  top: 520px;
+  font-family: RF Dewi Expanded;
+  font-weight: bold;
+  font-size: 64px;
+  color: #F24141;
+}
+
+
+.rectangle9 img {
+  position: absolute;
+  height: 700px;
+  left: 17px;
+  top: 497px;
+  display:block;
+  margin:auto;
+}
+
+
+.rectangle9 img{
+height: 700px;
+top: 497px;
+margin: auto;
+left: 0; right: 0;
 }
