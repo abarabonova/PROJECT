@@ -74,7 +74,7 @@ top:689px;
 background:#F24141;
 }
 
-h3 {
+h3 a {
 width:560px;
 height:119px;
 font-family:RF Dewi Expanded;
@@ -86,6 +86,10 @@ text-decoration-line:underline;
 text-transform:uppercase;
 position:absolute;
 color:#272F41;
+}
+
+a:hover{
+  color: #414A5E;
 }
 
 .advice {
@@ -576,7 +580,7 @@ left:105px;
 top:-83px;
 }
 
-h2 {
+h2 a{
 width:1236px;
 height:130px;
 position:absolute;
