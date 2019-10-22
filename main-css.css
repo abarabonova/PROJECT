@@ -107,28 +107,35 @@ a:hover{
   position: relative;
 }
 
+.two{
+  position: relative;
+  margin-top: 60px;
+}
 
+.three{
+  position: relative;
+  margin-top: -270px;
+}
 .pp1 {
   position: relative;
   padding-top: 260px;
   margin-left: 230px;
   width:977px;
-  height:256px;
   font-family:"RF Dewi Expanded";
-  font-weight:800;
-  font-size:70px;
-  line-height:84px;
-  z-index:3;
-  color:#F24141;
+  font-weight: 800;
+  font-size: 70px;
+  line-height: 84px;
+  z-index: 3;
+  color: #F24141;
 }
 
 .number {
-  position:absolute;
-  font-family:"RF Dewi Expanded";
-  font-weight:900;
-  font-size:800px;
-  z-index:1;
-  color:#414A5E;
+  position: absolute;
+  font-family: "RF Dewi Expanded";
+  font-weight: 900;
+  font-size: 800px;
+  z-index: 1;
+  color: #414A5E;
 }
 
 #n1 {
@@ -161,86 +168,77 @@ a:hover{
 }
 
 .pp2 {
-  position:absolute;
+  position: relative;
+  margin-top: -500px;
+  margin-left: 300px;
   width:977px;
-  height:256px;
-  left:278px;
-  top:1147px;
   font-family:"RF Dewi Expanded";
-  font-style:normal;
-  font-weight:800;
-  font-size:64px;
-  line-height:77px;
-  text-align:right;
+  font-weight: 800;
+  font-size:70px;
+  line-height:84px;
   z-index:3;
   color:#F24141;
+  text-align: right;
 }
 
 #n2{
-  width:822px;
-  height:521px;
-  left:662px;
-  top:735px;
+  top: -260px;
+  left: 690px;
 }
 
 .p2 {
-  position:absolute;
-  width:798px;
-  height:385px;
-  left:205px;
-  top:1356px;
-  font-family:"RF Dewi Expanded";
-  font-style:normal;
-  font-weight:bold;
-  font-size:24px;
-  line-height:142%;
-  z-index:3;
+  position: relative;
+  margin-top: 46px;
+  margin-left: 230px;
+  width: 798px;
+  height: 157px;
+  font-family: "RF Dewi Expanded";
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 34px;
+  z-index: 4;
   color:#FFF;
 }
 
 .photo2 {
-  position:absolute;
-  width:647px;
-  height:421px;
-  left:266px;
-  top:1030px;
+  position: relative;
+  width:666px;
+  height:444px;
+  left:149px;
+  top:-388px;
+  z-index:2;
 }
 
 .pp3 {
-  position:absolute;
-  width:546px;
-  height:256px;
-  left:208px;
-  top:1958px;
+  position: relative;
+  padding-top: 190px;
+  margin-left: 230px;
+  width:977px;
   font-family:"RF Dewi Expanded";
-  font-style:normal;
-  font-weight:800;
-  font-size:64px;
-  line-height:77px;
-  z-index:3;
-  color:#F24141;
+  font-weight: 800;
+  font-size: 70px;
+  line-height: 84px;
+  z-index: 3;
+  color: #F24141;
 }
 
 #n3 {
-  width:822px;
-  height:521px;
-  left:115px;
-  top:1629px;
+  top: -50px;
+  left: 110px;
 }
 
 .p3 {
-  position:absolute;
-  width:777px;
-  height:242px;
-  left:208px;
-  top:2256px;
+  position: relative;
+  margin-top: 65px;
+  margin-left: 230px;
+  width: 805px;
+  height: 242px;
   font-family:"RF Dewi Expanded";
-  font-style:normal;
   font-weight:bold;
   font-size:24px;
   line-height:34px;
-  z-index:3;
-  color:#F8F8F8;
+  z-index:4;
+  color:#FFF;
 }
 
 .photo3 {
