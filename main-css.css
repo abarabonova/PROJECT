@@ -528,7 +528,6 @@ h2 a{
   position:absolute;
   width:1497px;
   height:190px;
-  left:0;
   top:9086px;
   background:#272F41;
 }
@@ -926,18 +925,40 @@ h2 a{
 }
 
 .unit10{
-  position: absolute;
   width: 1440px;
-  height: 125px;
-  left: 0px;
-  top: 23544px;
-  background: #F24141;
+  height: 100px;
+  background:#272F41;
 }
 
-.unit10 ul li{
-  position: relative;
+
+/*
+
+.unit nav {
+  background: #F24141;
+  display: inline-block;
+  padding: 10px;
+  margin-top: 20px;
+  background: red;
+}
+.hero a {
+  color: #fff;
+}
+.hero nav ul li {
+  display: inline-block;
+  padding: 5px 10px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 14px;
+} */
+
+/*
+.unit10 ul li a{
   font-family: "RF Dewi Expanded";
   font-weight: bold;
+  display: inline-block;
+  padding: 10px;
+  margin-top: 20px;
   color: #fff;
-  margin: 30px auto 20px 100px;
-}
+  padding: 10px;
+  margin: 0 auto 50px;
+} */
