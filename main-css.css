@@ -709,7 +709,7 @@ h2 a{
 .r-bs {
   position:absolute;
   width:1440px;
-  height:598px;
+  height:608px;
   left:0px;
   top:1079px;
   background:#F24141;
@@ -749,40 +749,40 @@ h2 a{
 }
 
 .p-bs2 {
-  position:absolute;
-  width:394px;
-  height:49px;
-  left:208px;
-  top:1511px;
-  font-family:"RF Dewi Expanded";
-  font-style:normal;
-  font-weight:900;
-  font-size:18px;
-  line-height:22px;
-  color:#FFF;
+  position: absolute;
+  width: 394px;
+  height: 49px;
+  left: 208px;
+  top: 1511px;
+  font-family: "RF Dewi Expanded";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 22px;
+  color: #FFF;
 }
 
 .unit9 {
-  position:relative;
-  width:1440px;
-  height:7000px;
-  left:0;
-  top:15268px;
-  background:#272F41;
+  position: relative;
+  width: 1440px;
+  height: 7000px;
+  left: 0;
+  top: 15278px;
+  background: #272F41;
 }
 
 
 .map-shd {
-  left:0;
-  top:-74px;
-  left:100px;
-  font-family:"RF Dewi Expanded";
-  font-style:normal;
-  font-weight:900;
-  font-size:144px;
-  line-height:173px;
-  text-transform:uppercase;
-  color:#FFF;
+  left: 0;
+  top: -75px;
+  left: 100px;
+  font-family: "RF Dewi Expanded";
+  font-weight: 900;
+  font-size: 144px;
+  line-height: 173px;
+  text-transform: uppercase;
+  color: #FFF;
+  position: absolute;
 }
 
 
@@ -791,61 +791,74 @@ h2 a{
   width: 358px;
   height: 132px;
   left: 100px;
-  top: 520px;
   font-family: "RF Dewi Expanded";
   font-weight: bold;
   font-size: 64px;
   color: #F24141;
 }
 
-
-.unit9 img{
-  height: 700px;
-  margin: auto;
-  left: 0; right: 0;
-  position: absolute;
-  height: 700px;
-  top: 497px;
-  display:block;
-  margin:auto;
+.first{
+  position: relative;
+  padding-bottom: 150px;
 }
 
+.first h4{
+  top: 560px;
+}
 
-.first{
-  top: 497px;
+.first img{
+  position: absolute;
+  display: block;
+  margin: 0 auto;
+  top: 460px;
 }
 
 .second{
   position: relative;
-  top: 750px;
+  top: 700px;
 }
 
 .second img{
   position: absolute;
   display: block;
   margin: 0 auto;
+  top: 370px;
+}
+
+.second h4{
+  top: 480px;
 }
 
 .third{
   position: relative;
-  top: 1500px;
+  top: 1400px;
 }
 
 .third img{
   position: absolute;
   display: block;
   margin: 0 auto;
+  top: 440px;
+}
+
+.third h4{
+  top: 550px;
 }
 
 .fourth{
   position: relative;
-  top: 2253px;
+  top: 2135px;
 }
 
 .fourth img{
   position: absolute;
   display: block;
   margin: 0 auto;
+  top: 465px;
+}
+
+.fourth h4{
+  top: 570px;
 }
 
 .fifth{
@@ -857,6 +870,11 @@ h2 a{
   position: absolute;
   display: block;
   margin: 0 auto;
+  top: 366px;
+}
+
+.fifth h4 {
+  top: 473px;
 }
 
 .sixth{
@@ -868,8 +886,12 @@ h2 a{
   position: absolute;
   display: block;
   margin: 0 auto;
+  top: 375px;
 }
 
+.sixth h4{
+  top: 502px;
+}
 
 .seventh{
   position: relative;
@@ -880,6 +902,11 @@ h2 a{
   position: absolute;
   display: block;
   margin: 0 auto;
+  top: 407px;
+}
+
+.seventh h4{
+  top: 505px;
 }
 
 .eighth{
@@ -887,10 +914,15 @@ h2 a{
   top: 5258px;
 }
 
+.eighth h4{
+  top: 540px;
+}
+
 .eighth img{
   position: absolute;
   display: block;
   margin: 0 auto;
+  margin-top: 440px;
 }
 
 .unit10{
