@@ -1,5 +1,5 @@
 @import "reset.css";
-@import "fonts/fonts.css";
+@import "../fonts/fonts.css";
 
 body{
   -webkit-font-smoothing: antialiased;
@@ -25,7 +25,7 @@ h1 {
 
 h6 {
   margin-top: -45px;
-  font-family: "RF Dewi Expanded";
+  font-family: "heading-pro-wide-trial-black";
   font-size: 18px;
   line-height: 19px;
   text-align: center;
